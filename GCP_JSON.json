@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rich-operand-341506",
+  "private_key_id": "18d0693b39c906cd797b97f414fa5d4be8f58da2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDj3QwOHv+Fwoeo\nT09KtIMtLPgs2vRByipDhCIUouobllMbBegueT5vJczcZW+nCut102ZfzDxUNdLT\n+3soQmmVLuv5qB79Ey6rAr6xLuNBrvlDgYsn+rUDAzcdG++IcSS4nSeKcXDw280t\nz/CN5Bf12v7TwzFe5oCRsXQFknItge7gRghkLQLawpyyDNhd9D9mCbQ4Ri+5IzPV\nkzfOhTKtLlsNT0nVRRUxWCv2Z7usmuY9dSxKgR3Gx7H9agobylFPM3h19K4IBPsd\nJ+QJpinS8Knvl3L4nwu7PoXtR9gZXdDcnG6vLkHszaqhj+VFlU2do19VM3vCZwyo\nP7c9VzJXAgMBAAECggEAPtrU3nhSh/U3MoheGP9eR/Hlq4niYtt/eQxT0ll2NpHq\n7sNcXqV3QXWt4wXgHLX4aZIc5UQTSC9orqzqNhrLwSkmUsG7epf2AZpKO9nxOkcn\n3yU225peoCwc4dy44GxFct927suIGginuoFnm9xVd64nKQbo8YKn6IiItpjFAiQW\nG9sk5qsxYxcBwv6hkODUmfRFaGlagRYqz0NPr9X82HRWitwxhA9Y97cO7XBOJoPa\nUtrAd3e0KIBIlBgzeJAFrUTn3X6vM6uwIlWINvC7m6Cv2norWzbzddMN4L3RXfKG\ngkfiKQd5lKS+Nvt+FTuongaZ/Psc0MbDEWBYF7VVoQKBgQD1CNw52XX5ZqgJoPTY\nQXFAEac3TYXJJKkLTmoDkacDY52k2ZHtGZKLtiTMvCIkwxFE+xL1sIfUOlrEwz0q\nV//OHARk1oXbh0bogpLu2+4/7fuL7k4dTyzR34vWAwCK9WVvlnzKFGSMu/i/ttGp\n4orBxrgO+jxbdNx30jzZFcMvPwKBgQDuD3j5/XHnH6SS+1ZM3sPGydKQ5wfX6tIS\nBTDdpFwtqrEngBWp/cJ+9XcUggWIFqAwwWQtVk+PgBIrKVdVoQToksotus/tdcw1\nPbD9C5sLylS12X5/MLTUQdjeepw8k1xvI+CJNGG66PmVBWXhp0WZYbwodLj2gGnC\nO9YKwrRO6QKBgQDssmlh7GGc0IBkBLpfqB/I3wSjVFx259XvmQipd+pYSMMAejcP\nTROVqBY2O0nULyagdtRixur+pHwH8/1CyQzOwZuw+NUHMc7aTT+4QnUMBkxmaIXG\npDPMbF/9FJtSoCgjOcBDyJ00oWNxdh1kOPUGqHol5a2mPuW1TT4ACZipKwKBgQDp\nZIn6rZwKOF+lKnyFiLDwJ9Yk8hwid7nUqPorkoQ80Wg1jcGvk3Yn+ofwtzitH2GV\n60RHnqMJ0Un+vt08ukyRp7hH9Sr9Z8v5Nq5aqBIuEQPT9ZOrJxliL9xq4lJioSay\nX743Rf+6u8ZVb6FfBhuaMNPD5gugwGzvXLKQgis8YQKBgQC2iku/D2ZRGfzieeBT\nVv+Z/seWCIVDhlr4IP6fD8MTHLxnVz1vwMpqjqJ4cpFhcw0ppkxHOn/+hKjhILi0\nJ9OaInzmHxJDcN8ik8P78l4PnSPTllDmG0bcHt9w9AFPE7CoFqKbtgbRiAz0ifoR\nHt2h/P9FBqQ+gKeCtPZW6DbQaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-rocks@rich-operand-341506.iam.gserviceaccount.com",
+  "client_id": "110841095966757879801",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-rocks%40rich-operand-341506.iam.gserviceaccount.com"
+}
